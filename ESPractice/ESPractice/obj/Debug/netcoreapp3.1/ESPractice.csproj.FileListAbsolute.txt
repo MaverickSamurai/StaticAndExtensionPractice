@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Extension, Static practice\ESPractice\ESPractice\bin\Debug\netcoreapp3.1\ESPractice.exe
+C:\Users\User\Desktop\Extension, Static practice\ESPractice\ESPractice\bin\Debug\netcoreapp3.1\ESPractice.deps.json
+C:\Users\User\Desktop\Extension, Static practice\ESPractice\ESPractice\bin\Debug\netcoreapp3.1\ESPractice.runtimeconfig.json
+C:\Users\User\Desktop\Extension, Static practice\ESPractice\ESPractice\bin\Debug\netcoreapp3.1\ESPractice.runtimeconfig.dev.json
+C:\Users\User\Desktop\Extension, Static practice\ESPractice\ESPractice\bin\Debug\netcoreapp3.1\ESPractice.dll
+C:\Users\User\Desktop\Extension, Static practice\ESPractice\ESPractice\bin\Debug\netcoreapp3.1\ESPractice.pdb
+C:\Users\User\Desktop\Extension, Static practice\ESPractice\ESPractice\obj\Debug\netcoreapp3.1\ESPractice.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Extension, Static practice\ESPractice\ESPractice\obj\Debug\netcoreapp3.1\ESPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Extension, Static practice\ESPractice\ESPractice\obj\Debug\netcoreapp3.1\ESPractice.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Extension, Static practice\ESPractice\ESPractice\obj\Debug\netcoreapp3.1\ESPractice.AssemblyInfo.cs
+C:\Users\User\Desktop\Extension, Static practice\ESPractice\ESPractice\obj\Debug\netcoreapp3.1\ESPractice.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Extension, Static practice\ESPractice\ESPractice\obj\Debug\netcoreapp3.1\ESPractice.dll
+C:\Users\User\Desktop\Extension, Static practice\ESPractice\ESPractice\obj\Debug\netcoreapp3.1\ESPractice.pdb
+C:\Users\User\Desktop\Extension, Static practice\ESPractice\ESPractice\obj\Debug\netcoreapp3.1\ESPractice.genruntimeconfig.cache
